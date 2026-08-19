@@ -2,7 +2,7 @@
 
 # Atividade Prática - Algoritmos de Ordenação (C++)
 
-Este repositório contém a resolução da primeira etapa da atividade prática da disciplina de Engenharia de Software 3. O projeto é composto por uma série de exercícios focados na implementação, simulação e adaptação de algoritmos clássicos de ordenação (Bubble Sort, Selection Sort e Insertion Sort) utilizando a linguagem C++.
+Este repositório contém a resolução da primeira etapa da atividade prática da disciplina de Estrutura de Dados II. O projeto é composto por uma série de exercícios focados na implementação, simulação e adaptação de algoritmos clássicos de ordenação (Bubble Sort, Selection Sort e Insertion Sort) utilizando a linguagem C++.
 
 ## 📂 Estrutura do Repositório
 
