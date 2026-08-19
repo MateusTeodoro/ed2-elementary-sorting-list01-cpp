@@ -6,13 +6,14 @@ Este repositório contém a resolução da primeira etapa da atividade prática 
 
 ## 📂 Estrutura do Repositório
 
-O repositório está organizado em projetos independentes criados no **Code::Blocks**, separados por questões para facilitar a correção e execução isolada de cada algoritmo:
+O repositório está organizado de forma centralizada. Todo o código-fonte encontra-se dentro do diretório `src/`, dividido em projetos independentes do **Code::Blocks** para facilitar a correção e a execução isolada de cada algoritmo:
 
-* `Questao_01/` - Implementação estrita do Bubble Sort para ordenação de caracteres.
-* `Questao_02/` - Adaptação do Selection Sort para ordenação decrescente.
-* `Questao_03/` - Simulação parcial do Selection Sort (estado do vetor após *k* trocas).
-* `Questao_04/` - Contagem de deslocamentos na ordenação com Insertion Sort.
-* `Questao_05/` - Adaptação do Insertion Sort construindo a sublista ordenada no final do vetor.
+* `src/` - Diretório principal contendo as soluções.
+  * `Questao_01/` - Implementação estrita do Bubble Sort para ordenação de caracteres.
+  * `Questao_02/` - Adaptação do Selection Sort para ordenação decrescente.
+  * `Questao_03/` - Simulação parcial do Selection Sort (estado do vetor após *k* trocas).
+  * `Questao_04/` - Contagem de deslocamentos na ordenação com Insertion Sort.
+  * `Questao_05/` - Adaptação do Insertion Sort construindo a sublista ordenada no final do vetor.
 
 ---
 
