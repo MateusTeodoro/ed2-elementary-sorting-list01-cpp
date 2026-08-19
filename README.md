@@ -33,3 +33,48 @@ Existem duas formas de executar os projetos deste repositório: utilizando a int
 1. Faça o clone deste repositório na sua máquina local:
    ```bash
    git clone <URL_DO_SEU_REPOSITORIO>
+
+2. Abra o Code::Blocks.
+
+3. Vá em File > Open... e navegue até a pasta da questão que deseja testar (ex: Questao_01).
+
+4. Selecione o arquivo de projeto com a extensão .cbp (ex: Questao_01.cbp) e clique em abrir.
+
+5. Na barra superior, clique no ícone de engrenagem com um triângulo verde ou pressione a tecla F9 (Build and Run).
+
+6. O terminal será aberto aguardando a entrada dos dados.
+
+---
+
+Opção B: Pelo Terminal (G++)
+Caso prefira compilar os arquivos de código-fonte (.cpp) diretamente via terminal:
+
+1. Navegue até a pasta da questão desejada:
+
+cd Questao_01
+
+2. Compile o arquivo utilizando o G++:
+
+g++ main.cpp -o executavel -O2
+
+3. Execute o programa gerado:
+
+No Windows: .\executavel.exe
+
+No Linux/Mac: ./executavel
+
+---
+
+## 🧪 Como Testar
+
+Os códigos foram desenvolvidos no formato padrão de juízes online (como Beecrowd/URI), ou seja, não há mensagens interativas (ex: "Digite um número:"). O programa aguarda diretamente os dados de entrada e cospe apenas o resultado final exigido na saída.
+
+Para testar o correto funcionamento, siga estes passos:
+
+Execute o programa da questão desejada.
+
+Copie os dados do "Exemplo de Entrada" descritos no PDF da atividade.
+
+Cole-os diretamente no terminal do programa e pressione Enter.
+
+A saída gerada no terminal deverá ser idêntica ao "Exemplo de Saída" correspondente.
