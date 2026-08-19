@@ -76,10 +76,10 @@ Os códigos foram desenvolvidos no formato padrão de juízes online (como Beecr
 
 Para testar o correto funcionamento, siga estes passos:
 
-Execute o programa da questão desejada.
+1. Execute o programa da questão desejada.
 
-Copie os dados do "Exemplo de Entrada" descritos no PDF da atividade.
+2. Copie os dados do "Exemplo de Entrada" descritos no PDF da atividade.
 
-Cole-os diretamente no terminal do programa e pressione Enter.
+3. Cole-os diretamente no terminal do programa e pressione Enter.
 
-A saída gerada no terminal deverá ser idêntica ao "Exemplo de Saída" correspondente.
+4. A saída gerada no terminal deverá ser idêntica ao "Exemplo de Saída" correspondente.
