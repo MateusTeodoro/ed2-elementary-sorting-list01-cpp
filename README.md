@@ -46,7 +46,7 @@ Existem duas formas de executar os projetos deste repositório: utilizando a int
 
 ---
 
-###Opção B: Pelo Terminal (G++)
+### Opção B: Pelo Terminal (G++)
 
 Caso prefira compilar os arquivos de código-fonte (.cpp) diretamente via terminal:
 
