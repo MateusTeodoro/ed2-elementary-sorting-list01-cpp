@@ -7,8 +7,6 @@ int main()
 {
     std::string palavra;
 
-    std::cout << "Digite a palavra a ser organizada: ";
-
     std::cin >> palavra;
 
     int n = palavra.length();
@@ -34,7 +32,6 @@ int main()
         }
     }
 
-    std::cout << "Resultado: ";
-
     std::cout << palavra;
+    std::cout << "\n";
 }
