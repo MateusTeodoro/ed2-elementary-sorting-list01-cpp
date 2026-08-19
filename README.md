@@ -33,7 +33,7 @@ Existem duas formas de executar os projetos deste repositório: utilizando a int
 
 1. Faça o clone deste repositório na sua máquina local:
    ```bash
-   git clone <https://github.com/MateusTeodoro/ed2-elementary-sorting-list01-cpp>
+   git clone <git clone <https://github.com/MateusTeodoro/ed2-elementary-sorting-list01-cpp>
 
 2. Abra o Code::Blocks.
 
