@@ -50,9 +50,9 @@ Opção B: Pelo Terminal (G++)
 Caso prefira compilar os arquivos de código-fonte (.cpp) diretamente via terminal:
 
 1. Navegue até a pasta da questão desejada:
-
+```
 cd Questao_01
-
+```
 2. Compile o arquivo utilizando o G++:
 
 g++ main.cpp -o executavel -O2
