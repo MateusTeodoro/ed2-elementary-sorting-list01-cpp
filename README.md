@@ -46,22 +46,27 @@ Existem duas formas de executar os projetos deste repositório: utilizando a int
 
 ---
 
-Opção B: Pelo Terminal (G++)
+###Opção B: Pelo Terminal (G++)
+
 Caso prefira compilar os arquivos de código-fonte (.cpp) diretamente via terminal:
 
 1. Navegue até a pasta da questão desejada:
+
 ```
 cd Questao_01
 ```
+
 2. Compile o arquivo utilizando o G++:
 
+```
 g++ main.cpp -o executavel -O2
+```
 
 3. Execute o programa gerado:
 
-No Windows: .\executavel.exe
+No Windows: ``` .\executavel.exe ```
 
-No Linux/Mac: ./executavel
+No Linux/Mac: ``` ./executavel ```
 
 ---
 
